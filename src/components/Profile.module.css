@@ -1,0 +1,12 @@
+.content {
+    grid-area: main;
+    background-color: cornsilk;
+}
+
+.content img {
+    height: 140px;
+}
+
+.item {
+    color: yellowgreen;
+}
